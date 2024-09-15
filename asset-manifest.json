@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blog-Generator/static/css/main.a977d807.css",
+    "main.js": "/Blog-Generator/static/js/main.1338c99a.js",
+    "index.html": "/Blog-Generator/index.html",
+    "main.a977d807.css.map": "/Blog-Generator/static/css/main.a977d807.css.map",
+    "main.1338c99a.js.map": "/Blog-Generator/static/js/main.1338c99a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a977d807.css",
+    "static/js/main.1338c99a.js"
+  ]
+}
